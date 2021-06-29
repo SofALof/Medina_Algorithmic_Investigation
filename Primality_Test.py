@@ -15,7 +15,8 @@ def primalityTest(n):
 
     i = 5 #helper integer taking the form 6k-1
 
-    while i**2 <= n: #same thing as i <= rad(n); just a cleaner operation
+    radN = sqrt(n) #last val that needs to b cross-refrenced
+    while i <= radN: 
 
         if n mod i == 0 or n mod (i+2) == 0: #check n against all forms of 6k+-1 
             return False                                # Note that i+2 = 6k+1
