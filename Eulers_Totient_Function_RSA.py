@@ -5,6 +5,7 @@ Euler's Totient Function - for RSA
 Created July 9 2021
 '''
 
+#p and q must be prime
 def EulersTotient(p,q):
     return (p-1)(q-1)
 
