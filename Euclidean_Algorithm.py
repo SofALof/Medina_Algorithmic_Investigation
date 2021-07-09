@@ -1,6 +1,6 @@
 '''
 Sofia Medina - Algorithm Investigation Summer 2021
-Euclidean Algorithm: Optimized GCD
+Euclidean Algorithmic: Optimized GCD
 
 Created July 9 2021
 '''
