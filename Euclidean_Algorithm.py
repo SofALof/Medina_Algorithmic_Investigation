@@ -54,6 +54,9 @@ Properties of the GCD of two numbers:
         gcd(6,0)
 
         The gcd of 114 and 96 = 6!
+
+***Fun little side note for those of us who get a kick out of official names:
+    the form a = bq + r / is a form of Bezout's identity
 '''
 
 print(euclideanAlgorithm(96,3)) #gcd(96,3) = 3
