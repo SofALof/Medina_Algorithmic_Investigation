@@ -7,10 +7,14 @@ Created July 20 2021
 
 from Euclidean_Algorithm import euclideanAlgorithm as eucldAlg
 
+
 #p and q must be prime
 def CarmichealsTotient(p,q):
 
     return  (abs( (p-1)*(q-1) ) )/ (eucldAlg(p-1,q-1) )
 
 
-print(CarmichealsTotient(1,5))
+print(CarmichealsTotient(11,5))
+
+
+
