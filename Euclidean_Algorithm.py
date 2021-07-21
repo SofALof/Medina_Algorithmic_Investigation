@@ -57,6 +57,6 @@ Properties of the GCD of two numbers:
 
 '''
 
-print(euclideanAlgorithm(96,3)) #gcd(96,3) = 3
-print(euclideanAlgorithm(114,96)) #gcd(114,96) = 6
-print(euclideanAlgorithm(50,0)) #gcd(50,0) = 50
+#print(euclideanAlgorithm(96,3)) #gcd(96,3) = 3
+#print(euclideanAlgorithm(114,96)) #gcd(114,96) = 6
+#print(euclideanAlgorithm(50,0)) #gcd(50,0) = 50
