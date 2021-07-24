@@ -26,7 +26,7 @@ Carmicheal's totient function; sometimes called lambda(n)
 making it a smaller number and thus making operations quicker
 
 - Sometimes also referred to as the "reduced totient function" or the least universal
-exponent function
+exponent function or even "lcm" (though lcm is more of a very niche shorthand)
 
 
 lambda(n) = lambda(pq) = lcm (phi(p), phi(q) ) = lcm(p-1, q-1)
