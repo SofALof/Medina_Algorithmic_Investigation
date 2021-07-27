@@ -2,7 +2,7 @@
 Sofia Medina - Algorithmic Investigation Summer 2021
 Carmicheal's Totient Function - for RSA
 
-Created July 20 2021
+Created: July 20 2021
 '''
 
 from Euclidean_Algorithm import euclideanAlgorithm as eucldAlg
