@@ -7,7 +7,7 @@ Created: July 9 2021
 
 #p and q must be prime
 def EulersTotient(p,q):
-    return (p-1)(q-1)
+    return (p-1)*(q-1)
 
 ### Explanation of Algorithm ###
 '''
