@@ -64,8 +64,8 @@ i += 6 <-- brings i to the next iteration of 6k-1
 
 '''
 
-print(primalityTest(2))#prime
-print(primalityTest(19))#prime
-print(primalityTest(10302123))#composite
-print(primalityTest(82589933))#prime
-print(primalityTest(215)) #composite
+#print(primalityTest(2))#prime
+#print(primalityTest(19))#prime
+#print(primalityTest(10302123))#composite
+#print(primalityTest(82589933))#prime
+#print(primalityTest(215)) #composite
