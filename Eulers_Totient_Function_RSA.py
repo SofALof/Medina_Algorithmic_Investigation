@@ -2,7 +2,7 @@
 Sofia Medina - Algorithmic Investigation Summer 2021
 Euler's Totient Function - for RSA
 
-Created July 9 2021
+Created: July 9 2021
 '''
 
 #p and q must be prime
