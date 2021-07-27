@@ -21,6 +21,6 @@ def generateRandomPrime(lowerBound, upperBound):
             return rPrime
 
 
-rP = generateRandomPrime(100,200)
-print(rP)
+#rP = generateRandomPrime(100,200)
+#print(rP)
     
