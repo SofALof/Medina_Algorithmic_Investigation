@@ -35,10 +35,11 @@ def extendedEuclideanAlgorithm(a,b):
 '''
 return x such that (x*a) % b ==1
 '''
-def modularMultiplicativeInverse(a,m)
+def modularMultiplicativeInverse(a,m):
     g, x, y = extendedEuclideanAlgorithm(a,m)
 
     if g != 1:
         raise Exception ("Modular inverse does not exist")
 
     return x % m
+
