@@ -7,7 +7,7 @@ Created: July 24 2021
 '''
 
 from generate_random_prime_RSA import generateRandomPrime
-from Extended_Euclidean_Algorithm import modularMultiplicativeInverse
+from Extended_Euclidean_Algorithm_RSA import *
 
 #E must be chose according to the following conditions: 
     #1 < e < totient; additionally e must be co-prime to the totient value
@@ -18,7 +18,7 @@ from Extended_Euclidean_Algorithm import modularMultiplicativeInverse
 def choosePublicKeyExponentE (totient):
 
     while True:
-        rPrime = generateRandomPrime
+        rPrime = generateRandomPrime(100,200)
 
         if totient % rPrime != 0:
             return rPrime
@@ -26,4 +26,6 @@ def choosePublicKeyExponentE (totient):
 
 def calculatingPrivateKeyExponentD(totient, e):
         d = modularMultiplicativeInverse(e, totient)
+        return int(d)
     
+#print(calculatingPrivateKeyExponentD(1051, 604440))
