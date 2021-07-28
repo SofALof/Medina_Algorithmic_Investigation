@@ -14,6 +14,7 @@ Created: July 27 2021
 # n = totient value
 
 def encrypt(M, e, n):
+    #C =  [(ord(char)**e)% n for char in plain_text]
 
     return (M**e) % n
 
@@ -22,5 +23,7 @@ def encrypt(M, e, n):
 # n = totient value
 
 def decrypt(C, d, n):
+   # M =[chr((char**d)%n) for char in cipher_text]
+    #M =  ''.join(M)
 
     return (C**d) % n 
