@@ -18,4 +18,7 @@ Each Algorithm has:
 
 As of Wednesday July 28 2021:
 
-- RSA - 99% Completed
+- RSA - 99.9% Completed
+
+
+*Note that any project is never 100% completed
