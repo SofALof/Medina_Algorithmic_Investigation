@@ -18,7 +18,7 @@ Each Algorithm has:
 
 As of Wednesday July 28 2021:
 
-- RSA - 99.9% Completed
+- [RSA](https://github.com/SofALof/Medina_Algorithmic_Investigation/blob/master/RSA_Algorithm.ipynb) - 99.9% Completed: 
 
 
 *Note that any project is never 100% completed
