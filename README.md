@@ -16,7 +16,7 @@ Each Algorithm has:
 - A Jupyter Notebook file; of the entire algorithm, complete with explanation, discussions, and images/graphics
 
 
-As of Wednesday July 28 2021:
+As of Saturday October 9 2021:
 
 - [RSA](https://github.com/SofALof/Medina_Algorithmic_Investigation/blob/master/RSA_Algorithm.ipynb) - 99.9% Completed: 
 - DH - 58.79% Completed
