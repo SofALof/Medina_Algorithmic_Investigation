@@ -2,7 +2,7 @@
 [ Algorithmic Investigation Summer 2021: an in-depth dive into a variety of CS and Mathematical Algorithms ] 
 
 
-This repository serves as a home base for a passion project (as well as a summer mentorship project) of mine. I am conducting a thourough 
+This repository serves as a home base for a passion project (as well as a summer mentorship project) of mine. I am conducting a  thorough
 Investigation of various CS algorithms that I find particularly fascinating. My aim is to have a well documented file (for each algorithm)
 that includes history of algorithm, discussions on its uses and different optimizations, but most importantly a step-by-step explanation 
 of the given algorithm organized in a way that allows a (dedicated) reader to have a fairly good understanding without having to struggle 
